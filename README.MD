@@ -1,4 +1,4 @@
-<h3><span style="color: green"> #Movie Poster Creator# </span></h3>
+<h3>#Movie Poster Creator#<h3>
 
 *Prerequirements
 
