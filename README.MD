@@ -1,4 +1,4 @@
-<h3><font color="red">#Movie Poster Creator#</font></h3>
+<font color="red">#Movie Poster Creator#</font>
 
 *Prerequirements
 
