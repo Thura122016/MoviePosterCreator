@@ -1,4 +1,4 @@
-<h3>#Movie Poster Creator#<h3>
+<h3>#Movie Poster Creator#</h3>
 
 *Prerequirements
 
