@@ -3,6 +3,7 @@ import sys,os
 from datetime import datetime
 
 def FixO(oimg):
+    print('oimg')
     try:
         for orientation in ExifTags.TAGS.keys():
             if ExifTags.TAGS[orientation]=='Orientation':
